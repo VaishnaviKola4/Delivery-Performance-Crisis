@@ -1,0 +1,6 @@
+warehouse_id,name,location_city,latitude,longitude,max_capacity,staff_headcount,current_inventory_load,utilization_pct
+WH-NORTH-01,North Metro Hub,Chicago,41.8781,-87.6298,15000,45,12542,83.61
+WH-SOUTH-02,South Regional Depot,Dallas,32.7767,-96.797,12000,35,11623,96.86
+WH-EAST-03,East Coast Mega Center,Newark,40.7357,-74.1724,22000,70,20203,91.83
+WH-WEST-04,Pacific Coast Gateway,Los Angeles,34.0522,-118.2437,18000,55,15978,88.77
+WH-CENTRAL-05,Midwest Fulfillment Hub,Kansas City,39.0997,-94.5786,10000,30,7858,78.58
